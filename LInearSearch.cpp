@@ -22,7 +22,7 @@ int main(){
 	
 	if(answer >=0){
 		
-	cout<<	a[answer]<<"was found " << "at index " << answer;
+	cout<<a[answer]<<" was found " << "at index " << answer;
 		
 	}
 	else 
